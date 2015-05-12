@@ -98,10 +98,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 42929131,
           "hgvs": "NM_004247.3(EFTUD2):c.2770C>T",
+          "referenceBases": "G",
           "referenceName": "17",
-          "start": 42929131
+          "start": 42929130
         }
       }
     ],
@@ -213,10 +216,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 74058108,
           "hgvs": "NM_006463.4(STAMBP):c.125A>G",
+          "referenceBases": "A",
           "referenceName": "2",
-          "start": 74058108
+          "start": 74058107
         }
       },
       {
@@ -228,10 +234,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 74074670,
           "hgvs": "NM_006463.4(STAMBP):c.532C>T",
+          "referenceBases": "C",
           "referenceName": "2",
-          "start": 74074670
+          "start": 74074669
         }
       }
     ],
@@ -333,10 +342,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 118860954,
           "hgvs": "NM_000414.3(HSD17B4):c.1547T>C",
+          "referenceBases": "T",
           "referenceName": "5",
-          "start": 118860954
+          "start": 118860953
         }
       },
       {
@@ -348,10 +360,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 118792052,
           "hgvs": "NM_000414.3(HSD17B4):c.101C>T",
+          "referenceBases": "C",
           "referenceName": "5",
-          "start": 118792052
+          "start": 118792051
         }
       }
     ],
@@ -403,10 +418,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 7050691,
           "hgvs": "NM_005559.3(LAMA1):c.588+2T>G",
+          "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050691
+          "start": 7050690
         }
       },
       {
@@ -418,10 +436,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 7050691,
           "hgvs": "NM_005559.3(LAMA1):c.588+2T>G",
+          "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050691
+          "start": 7050690
         }
       }
     ],
@@ -478,10 +499,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 128412081,
           "hgvs": "NM_001136037.2(LIMS2):c.342C>G",
+          "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412081
+          "start": 128412080
         }
       },
       {
@@ -493,10 +517,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 128412067,
           "hgvs": "NM_001136037.2(LIMS2):c.356C>T",
+          "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412067
+          "start": 128412066
         }
       },
       {
@@ -508,10 +535,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 128396914,
           "hgvs": "NM_001136037.2(LIMS2):c.1034T>C",
+          "referenceBases": "A",
           "referenceName": "2",
-          "start": 128396914
+          "start": 128396913
         }
       }
     ],
@@ -563,10 +593,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 128412081,
           "hgvs": "NM_001136037.2(LIMS2):c.342C>G",
+          "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412081
+          "start": 128412080
         }
       },
       {
@@ -578,10 +611,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 128412067,
           "hgvs": "NM_001136037.2(LIMS2):c.356C>T",
+          "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412067
+          "start": 128412066
         }
       },
       {
@@ -593,10 +629,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 128396914,
           "hgvs": "NM_001136037.2(LIMS2):c.1034T>C",
+          "referenceBases": "A",
           "referenceName": "2",
-          "start": 128396914
+          "start": 128396913
         }
       }
     ],
@@ -638,10 +677,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 14794076,
           "hgvs": "NM_004963.3(GUCY2C):c.2008G>A",
+          "referenceBases": "C",
           "referenceName": "12",
-          "start": 14794076
+          "start": 14794075
         }
       },
       {
@@ -653,10 +695,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 14794076,
           "hgvs": "NM_004963.3(GUCY2C):c.2008G>A",
+          "referenceBases": "C",
           "referenceName": "12",
-          "start": 14794076
+          "start": 14794075
         }
       }
     ],
@@ -698,10 +743,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 14794076,
           "hgvs": "NM_004963.3(GUCY2C):c.2008G>A",
+          "referenceBases": "C",
           "referenceName": "12",
-          "start": 14794076
+          "start": 14794075
         }
       },
       {
@@ -713,10 +761,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 14794076,
           "hgvs": "NM_004963.3(GUCY2C):c.2008G>A",
+          "referenceBases": "C",
           "referenceName": "12",
-          "start": 14794076
+          "start": 14794075
         }
       }
     ],
@@ -798,10 +849,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 75665092,
           "hgvs": "NM_005548.2(KARS):c.1312C>T",
+          "referenceBases": "G",
           "referenceName": "16",
-          "start": 75665092
+          "start": 75665091
         }
       },
       {
@@ -813,10 +867,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 75662589,
           "hgvs": "NM_005548.2(KARS):c.1573G>A",
+          "referenceBases": "C",
           "referenceName": "16",
-          "start": 75662589
+          "start": 75662588
         }
       }
     ],
@@ -883,10 +940,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 75665092,
           "hgvs": "NM_005548.2(KARS):c.1312C>T",
+          "referenceBases": "G",
           "referenceName": "16",
-          "start": 75665092
+          "start": 75665091
         }
       },
       {
@@ -898,10 +958,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 75662589,
           "hgvs": "NM_005548.2(KARS):c.1573G>A",
+          "referenceBases": "C",
           "referenceName": "16",
-          "start": 75662589
+          "start": 75662588
         }
       }
     ],
@@ -968,10 +1031,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 34072338,
           "hgvs": "NM_003895.3(SYNJ1):c.406C>T",
+          "referenceBases": "G",
           "referenceName": "21",
-          "start": 34072338
+          "start": 34072337
         }
       },
       {
@@ -983,10 +1049,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 34072338,
           "hgvs": "NM_003895.3(SYNJ1):c.406C>T",
+          "referenceBases": "G",
           "referenceName": "21",
-          "start": 34072338
+          "start": 34072337
         }
       }
     ],
@@ -1078,10 +1147,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 220316451,
           "hgvs": "NM_018060.3(IARS2):c.2726C>T",
+          "referenceBases": "C",
           "referenceName": "1",
-          "start": 220316451
+          "start": 220316450
         }
       },
       {
@@ -1093,10 +1165,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 220316451,
           "hgvs": "NM_018060.3(IARS2):c.2726C>T",
+          "referenceBases": "C",
           "referenceName": "1",
-          "start": 220316451
+          "start": 220316450
         }
       }
     ],
@@ -1203,10 +1278,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 6977723,
           "hgvs": "NM_005559.3(LAMA1):c.6345+3G>C",
+          "referenceBases": "C",
           "referenceName": "18",
-          "start": 6977723
+          "start": 6977722
         }
       },
       {
@@ -1219,9 +1297,8 @@
         },
         "variant": {
           "assembly": "GRCh37",
-          "hgvs": "NM_005559.3(LAMA1):c.exon4-11del",
-          "referenceName": "18",
-          "start": 7038809
+          "hgvs": "NM_005559.3(LAMA1):c.346-?_1563+?del",
+          "referenceName": "18"
         }
       }
     ],
@@ -1305,8 +1382,7 @@
         "variant": {
           "assembly": "GRCh37",
           "hgvs": "NM_005559.3(LAMA1):c.7965-15_7965-3del",
-          "referenceName": "18",
-          "start": 6956767
+          "referenceName": "18"
         }
       },
       {
@@ -1318,10 +1394,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
-          "hgvs": "NM_005559.3(LAMA1):c.2988_2989delA",
+          "end": 7016493,
+          "hgvs": "NM_005559.3(LAMA1):c.2986delA",
+          "referenceBases": "GT",
           "referenceName": "18",
-          "start": 7016490
+          "start": 7016491
         }
       }
     ],
@@ -1438,10 +1517,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "AGGG",
           "assembly": "GRCh37",
+          "end": 6973132,
           "hgvs": "NM_005559.3(LAMA1):c.6701delC",
+          "referenceBases": "AGGGG",
           "referenceName": "18",
-          "start": 6973129
+          "start": 6973127
         }
       },
       {
@@ -1453,10 +1535,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 6948556,
           "hgvs": "NM_005559.3(LAMA1):c.8557-1G>C",
+          "referenceBases": "C",
           "referenceName": "18",
-          "start": 6948556
+          "start": 6948555
         }
       },
       {
@@ -1468,10 +1553,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 7049076,
           "hgvs": "NM_005559.3(LAMA1):c.768+1G>A",
+          "referenceBases": "C",
           "referenceName": "18",
-          "start": 7049076
+          "start": 7049075
         }
       }
     ],
@@ -1553,10 +1641,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 7016663,
           "hgvs": "NM_005559.3(LAMA1):c.2816_2817delAT",
+          "referenceBases": "AAT",
           "referenceName": "18",
-          "start": 7016662
+          "start": 7016660
         }
       },
       {
@@ -1568,10 +1659,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 7050726,
           "hgvs": "NM_005559.3(LAMA1):c.555T>G",
+          "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050726
+          "start": 7050725
         }
       }
     ],
@@ -1663,10 +1757,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 7016663,
           "hgvs": "NM_005559.3(LAMA1):c.2816_2817delAT",
+          "referenceBases": "AAT",
           "referenceName": "18",
-          "start": 7016662
+          "start": 7016660
         }
       },
       {
@@ -1678,10 +1775,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 7050726,
           "hgvs": "NM_005559.3(LAMA1):c.555T>G",
+          "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050726
+          "start": 7050725
         }
       }
     ],
@@ -1723,10 +1823,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447952,
           "hgvs": "NM_003091.3(SNRPB):c.155+301G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447951
         }
       }
     ],
@@ -1788,10 +1891,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447952,
           "hgvs": "NM_003091.3(SNRPB):c.155+301G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447951
         }
       }
     ],
@@ -1868,10 +1974,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447952,
           "hgvs": "NM_003091.3(SNRPB):c.155+301G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447951
         }
       }
     ],
@@ -1948,10 +2057,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 2447847,
           "hgvs": "NM_003091.3(SNRPB):c.155+406C>A",
+          "referenceBases": "G",
           "referenceName": "20",
-          "start": 2447847
+          "start": 2447846
         }
       }
     ],
@@ -2028,10 +2140,13 @@
           "label": "3'UTR"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
-          "hgvs": "NM_003091.3(SNRPB):c.-72G>A",
+          "end": 2451408,
+          "hgvs": "NM_003091.3(SNRPB):c.-72C>T",
+          "referenceBases": "G",
           "referenceName": "20",
-          "start": 2451408
+          "start": 2451407
         }
       }
     ],
@@ -2078,10 +2193,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447952,
           "hgvs": "NM_003091.3(SNRPB):c.155+301G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447951
         }
       }
     ],
@@ -2143,10 +2261,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447952,
           "hgvs": "NM_003091.3(SNRPB):c.155+301G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447951
         }
       }
     ],
@@ -2208,10 +2329,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447953,
           "hgvs": "NM_003091.3(SNRPB):c.155+300G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447953
+          "start": 2447952
         }
       }
     ],
@@ -2283,10 +2407,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447953,
           "hgvs": "NM_003091.3(SNRPB):c.155+300G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447953
+          "start": 2447952
         }
       }
     ],
@@ -2353,10 +2480,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447952,
           "hgvs": "NM_003091.3(SNRPB):c.155+301G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447951
         }
       }
     ],
@@ -2433,10 +2563,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 2447953,
           "hgvs": "NM_003091.3(SNRPB):c.155+300G>C",
+          "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447953
+          "start": 2447952
         }
       }
     ],
@@ -2503,10 +2636,13 @@
           "label": "INTRONIC"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 2447846,
           "hgvs": "NM_003091.3(SNRPB):c.155+407C>T",
+          "referenceBases": "G",
           "referenceName": "20",
-          "start": 2447846
+          "start": 2447845
         }
       }
     ],
@@ -2588,10 +2724,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 9862854,
           "hgvs": "NM_001134407.1(GRIN2A):c.2449A>G",
+          "referenceBases": "T",
           "referenceName": "16",
-          "start": 9862854
+          "start": 9862853
         }
       }
     ],
@@ -2693,10 +2832,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 1105813,
           "hgvs": "NM_001039848.1(GPX4):c.587+5G>A",
+          "referenceBases": "G",
           "referenceName": "19",
-          "start": 1105813
+          "start": 1105812
         }
       },
       {
@@ -2708,10 +2850,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 1106237,
           "hgvs": "NM_001039848.1(GPX4):c.588-8_588-4del",
+          "referenceBases": "CTTTTC",
           "referenceName": "19",
-          "start": 1106233
+          "start": 1106231
         }
       }
     ],
@@ -2818,10 +2963,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 1105455,
           "hgvs": "NM_001039848.1(GPX4):c.381C>A",
+          "referenceBases": "C",
           "referenceName": "19",
-          "start": 1105455
+          "start": 1105454
         }
       },
       {
@@ -2833,10 +2981,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 1105455,
           "hgvs": "NM_001039848.1(GPX4):c.381C>A",
+          "referenceBases": "C",
           "referenceName": "19",
-          "start": 1105455
+          "start": 1105454
         }
       }
     ],
@@ -2898,10 +3049,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 30671863,
           "hgvs": "NM_002047.2(GARS):c.1904C>T",
+          "referenceBases": "C",
           "referenceName": "7",
-          "start": 30671863
+          "start": 30671862
         }
       },
       {
@@ -2913,10 +3067,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 30668263,
           "hgvs": "NM_002047.2(GARS):c.1787G>A",
+          "referenceBases": "G",
           "referenceName": "7",
-          "start": 30668263
+          "start": 30668262
         }
       }
     ],
@@ -3043,10 +3200,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "TGG",
           "assembly": "GRCh37",
+          "end": 25761027,
           "hgvs": "NM_018297.3(NGLY1):c.1891delC",
+          "referenceBases": "TGGG",
           "referenceName": "3",
-          "start": 25761025
+          "start": 25761023
         }
       },
       {
@@ -3058,10 +3218,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       }
     ],
@@ -3163,10 +3326,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "TCCCCCC",
           "assembly": "GRCh37",
+          "end": 25773869,
           "hgvs": "NM_018297.3(NGLY1):c.1370dupG",
+          "referenceBases": "TCCCCC",
           "referenceName": "3",
-          "start": 25773865
+          "start": 25773863
         }
       },
       {
@@ -3178,10 +3344,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "TCCCCCC",
           "assembly": "GRCh37",
+          "end": 25773869,
           "hgvs": "NM_018297.3(NGLY1):c.1370dupG",
+          "referenceBases": "TCCCCC",
           "referenceName": "3",
-          "start": 25773865
+          "start": 25773863
         }
       }
     ],
@@ -3333,10 +3502,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       },
       {
@@ -3348,10 +3520,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       }
     ],
@@ -3513,10 +3688,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       },
       {
@@ -3528,10 +3706,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       }
     ],
@@ -3618,10 +3799,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       },
       {
@@ -3633,10 +3817,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       }
     ],
@@ -3768,10 +3955,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       },
       {
@@ -3783,10 +3973,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       }
     ],
@@ -3923,10 +4116,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       },
       {
@@ -3938,10 +4134,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 25775422,
           "hgvs": "NM_018297.3(NGLY1):c.1201A>T",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775422
+          "start": 25775421
         }
       }
     ],
@@ -3993,10 +4192,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "CTTTT",
           "assembly": "GRCh37",
+          "end": 36579992,
           "hgvs": "NM_001083961.1(WDR62):c.1821dupT",
+          "referenceBases": "CTTT",
           "referenceName": "19",
-          "start": 36579992
+          "start": 36579988
         }
       },
       {
@@ -4008,10 +4210,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "CTTTT",
           "assembly": "GRCh37",
+          "end": 36579992,
           "hgvs": "NM_001083961.1(WDR62):c.1821dupT",
+          "referenceBases": "CTTT",
           "referenceName": "19",
-          "start": 36579992
+          "start": 36579988
         }
       }
     ],
@@ -4093,10 +4298,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 42474427,
           "hgvs": "NM_152296(ATP1A3):c.2452G>A",
+          "referenceBases": "C",
           "referenceName": "19",
-          "start": 42474427
+          "start": 42474426
         }
       }
     ],
@@ -4263,10 +4471,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 2160552,
           "hgvs": "NM_003036.3(SKI):c.347G>A",
+          "referenceBases": "G",
           "referenceName": "1",
-          "start": 2160552
+          "start": 2160551
         }
       }
     ],
@@ -4418,10 +4629,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 74538114,
           "hgvs": "NM_005589(ALDH6A1):c.514T>C",
+          "referenceBases": "A",
           "referenceName": "14",
-          "start": 74538114
+          "start": 74538113
         }
       },
       {
@@ -4433,10 +4647,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 74527350,
           "hgvs": "NM_005589(ALDH6A1):c.1603C>T",
+          "referenceBases": "G",
           "referenceName": "14",
-          "start": 74527350
+          "start": 74527349
         }
       }
     ],
@@ -4508,10 +4725,13 @@
           "label": "FRAMESHIFT"
         },
         "variant": {
+          "alternateBases": "AC",
           "assembly": "GRCh37",
+          "end": 67592090,
           "hgvs": "NM_181523.2(PIK3R1):c.1906_1907insC",
+          "referenceBases": "A",
           "referenceName": "5",
-          "start": 67592090
+          "start": 67592089
         }
       }
     ],
@@ -4623,10 +4843,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 3075805,
           "hgvs": "NM_024339.3(THOC6):c.136G>A",
+          "referenceBases": "G",
           "referenceName": "16",
-          "start": 3075805
+          "start": 3075804
         }
       },
       {
@@ -4638,10 +4861,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
+          "end": 3075805,
           "hgvs": "NM_024339.3(THOC6):c.136G>A",
+          "referenceBases": "G",
           "referenceName": "16",
-          "start": 3075805
+          "start": 3075804
         }
       }
     ],
@@ -4723,10 +4949,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 42153199,
           "hgvs": "NM_138387.3(G6PC3):c.829C>T",
+          "referenceBases": "C",
           "referenceName": "17",
-          "start": 42153199
+          "start": 42153198
         }
       },
       {
@@ -4738,10 +4967,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 42153199,
           "hgvs": "NM_138387.3(G6PC3):c.829C>T",
+          "referenceBases": "C",
           "referenceName": "17",
-          "start": 42153199
+          "start": 42153198
         }
       }
     ],
@@ -4788,10 +5020,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 47221659,
           "hgvs": "NM_020458.2(TTC7A):c.1001+3_1001+6del",
+          "referenceBases": "TAAGT",
           "referenceName": "2",
-          "start": 47221656
+          "start": 47221654
         }
       },
       {
@@ -4803,10 +5038,13 @@
           "label": "SPLICING"
         },
         "variant": {
+          "alternateBases": "T",
           "assembly": "GRCh37",
+          "end": 47221659,
           "hgvs": "NM_020458.2(TTC7A):c.1001+3_1001+6del",
+          "referenceBases": "TAAGT",
           "referenceName": "2",
-          "start": 47221656
+          "start": 47221654
         }
       }
     ],
@@ -4853,10 +5091,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 20225453,
           "hgvs": "NM_001012410.3(SGOL1):c.67A>G",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 20225453
+          "start": 20225452
         }
       },
       {
@@ -4868,10 +5109,13 @@
           "label": "MISSENSE"
         },
         "variant": {
+          "alternateBases": "C",
           "assembly": "GRCh37",
+          "end": 20225453,
           "hgvs": "NM_001012410.3(SGOL1):c.67A>G",
+          "referenceBases": "T",
           "referenceName": "3",
-          "start": 20225453
+          "start": 20225452
         }
       }
     ],
@@ -5008,10 +5252,13 @@
           "label": "INFRAME-DELETION"
         },
         "variant": {
+          "alternateBases": "G",
           "assembly": "GRCh37",
+          "end": 25775418,
           "hgvs": "NM_018297.3(NGLY1):c.1205_1207del",
+          "referenceBases": "GTTC",
           "referenceName": "3",
-          "start": 25775416
+          "start": 25775414
         }
       },
       {
@@ -5023,10 +5270,13 @@
           "label": "STOPGAIN"
         },
         "variant": {
+          "alternateBases": "A",
           "assembly": "GRCh37",
-          "hgvs": "NM_018297.3(NGLY1):c.1570C>T",
+          "end": 25761670,
+          "hgvs": "NM_018297.3(NGLY1):c.1624C>T",
+          "referenceBases": "G",
           "referenceName": "3",
-          "start": 25770665
+          "start": 25761669
         }
       }
     ],
