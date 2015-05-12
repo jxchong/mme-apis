@@ -1,10 +1,8 @@
 # Test data
 
-This test data was compiled by Lijia Huang (CHEO Hospital), Bailey Gallinger (SickKids), and Orion Buske (University of Toronto/SickKids).
+Test data was compiled by Lijia Huang (CHEO Hospital), Bailey Gallinger (SickKids), and Orion Buske (University of Toronto/SickKids).
 
-There are two files containing test data:
+There is currently one file containing test data:
 
-    * `fhs_patients.json`: a small sample data set of 5 patients with Floating-Harbor Syndrome
-    * `benchmark_patients.json`: a benchmark data set of 50 test patients compiled from the literature
+    * `benchmark_patients.json`: a benchmark data set of 50 test patients compiled from the literature. It contain a JSON-formatted list of patient objects, suitable for loading into a database or including in a match request.
 
-Both test files contain a JSON-formatted list of patient objects, suitable for loading into a database or including in a match request.
