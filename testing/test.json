@@ -761,13 +761,13 @@
           "label": "MISSENSE"
         },
         "variant": {
-          "alternateBases": "T",
+          "alternateBases": "G",
           "assembly": "GRCh37",
-          "end": 14794076,
-          "hgvs": "NM_004963.3(GUCY2C):c.2008G>A",
-          "referenceBases": "C",
+          "end": 14772238,
+          "hgvs": "NM_004963.3(GUCY2C):c.2782T>C",
+          "referenceBases": "A",
           "referenceName": "12",
-          "start": 14794075
+          "start": 14772237
         }
       }
     ],
