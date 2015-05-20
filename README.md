@@ -1,4 +1,6 @@
 # MatchMaker Exchange API
+Current version is
+[![GitHub tag](https://img.shields.io/github/tag/MatchmakerExchange/mme-apis.svg)]()
 
 ## Endpoints
 Below are a list of live implementations of the API, and the associated base URLs (see [search-api.md](search-api.md) for a description).
