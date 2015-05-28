@@ -87,7 +87,7 @@
           "end": 42929131,
           "referenceBases": "G",
           "referenceName": "17",
-          "start": 42929130
+          "start": 42929131
         },
         "zygosity": 1
       }
@@ -188,7 +188,7 @@
           "end": 74058108,
           "referenceBases": "A",
           "referenceName": "2",
-          "start": 74058107
+          "start": 74058108
         },
         "zygosity": 1
       },
@@ -206,7 +206,7 @@
           "end": 74074670,
           "referenceBases": "C",
           "referenceName": "2",
-          "start": 74074669
+          "start": 74074670
         },
         "zygosity": 1
       }
@@ -299,7 +299,7 @@
           "end": 118860954,
           "referenceBases": "T",
           "referenceName": "5",
-          "start": 118860953
+          "start": 118860954
         },
         "zygosity": 1
       },
@@ -317,7 +317,7 @@
           "end": 118792052,
           "referenceBases": "C",
           "referenceName": "5",
-          "start": 118792051
+          "start": 118792052
         },
         "zygosity": 1
       }
@@ -370,7 +370,7 @@
           "end": 7050691,
           "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050690
+          "start": 7050691
         },
         "zygosity": 2
       }
@@ -427,7 +427,7 @@
           "end": 128412081,
           "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412080
+          "start": 128412081
         },
         "zygosity": 1
       },
@@ -445,7 +445,7 @@
           "end": 128412067,
           "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412066
+          "start": 128412067
         },
         "zygosity": 1
       },
@@ -463,7 +463,7 @@
           "end": 128396914,
           "referenceBases": "A",
           "referenceName": "2",
-          "start": 128396913
+          "start": 128396914
         },
         "zygosity": 1
       }
@@ -516,7 +516,7 @@
           "end": 128412081,
           "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412080
+          "start": 128412081
         },
         "zygosity": 1
       },
@@ -534,7 +534,7 @@
           "end": 128412067,
           "referenceBases": "G",
           "referenceName": "2",
-          "start": 128412066
+          "start": 128412067
         },
         "zygosity": 1
       },
@@ -552,7 +552,7 @@
           "end": 128396914,
           "referenceBases": "A",
           "referenceName": "2",
-          "start": 128396913
+          "start": 128396914
         },
         "zygosity": 1
       }
@@ -597,7 +597,7 @@
           "end": 14794076,
           "referenceBases": "C",
           "referenceName": "12",
-          "start": 14794075
+          "start": 14794076
         },
         "zygosity": 2
       }
@@ -642,7 +642,7 @@
           "end": 14794076,
           "referenceBases": "C",
           "referenceName": "12",
-          "start": 14794075
+          "start": 14794076
         },
         "zygosity": 1
       },
@@ -660,7 +660,7 @@
           "end": 14772238,
           "referenceBases": "A",
           "referenceName": "12",
-          "start": 14772237
+          "start": 14772238
         },
         "zygosity": 1
       }
@@ -737,7 +737,7 @@
           "end": 75665092,
           "referenceBases": "G",
           "referenceName": "16",
-          "start": 75665091
+          "start": 75665092
         },
         "zygosity": 1
       },
@@ -755,7 +755,7 @@
           "end": 75662589,
           "referenceBases": "C",
           "referenceName": "16",
-          "start": 75662588
+          "start": 75662589
         },
         "zygosity": 1
       }
@@ -820,7 +820,7 @@
           "end": 75665092,
           "referenceBases": "G",
           "referenceName": "16",
-          "start": 75665091
+          "start": 75665092
         },
         "zygosity": 1
       },
@@ -838,7 +838,7 @@
           "end": 75662589,
           "referenceBases": "C",
           "referenceName": "16",
-          "start": 75662588
+          "start": 75662589
         },
         "zygosity": 1
       }
@@ -903,7 +903,7 @@
           "end": 34072338,
           "referenceBases": "G",
           "referenceName": "21",
-          "start": 34072337
+          "start": 34072338
         },
         "zygosity": 2
       }
@@ -988,7 +988,7 @@
           "end": 220316451,
           "referenceBases": "C",
           "referenceName": "1",
-          "start": 220316450
+          "start": 220316451
         },
         "zygosity": 2
       }
@@ -1085,7 +1085,7 @@
           "end": 6977723,
           "referenceBases": "C",
           "referenceName": "18",
-          "start": 6977722
+          "start": 6977723
         },
         "zygosity": 1
       },
@@ -1190,7 +1190,7 @@
           "end": 7016493,
           "referenceBases": "GT",
           "referenceName": "18",
-          "start": 7016491
+          "start": 7016492
         },
         "zygosity": 1
       }
@@ -1295,7 +1295,7 @@
           "end": 6973132,
           "referenceBases": "AGGGG",
           "referenceName": "18",
-          "start": 6973127
+          "start": 6973128
         },
         "zygosity": 1
       },
@@ -1313,7 +1313,7 @@
           "end": 6948556,
           "referenceBases": "C",
           "referenceName": "18",
-          "start": 6948555
+          "start": 6948556
         },
         "zygosity": 1
       },
@@ -1331,7 +1331,7 @@
           "end": 7049076,
           "referenceBases": "C",
           "referenceName": "18",
-          "start": 7049075
+          "start": 7049076
         },
         "zygosity": 1
       }
@@ -1408,7 +1408,7 @@
           "end": 7016663,
           "referenceBases": "AAT",
           "referenceName": "18",
-          "start": 7016660
+          "start": 7016661
         },
         "zygosity": 1
       },
@@ -1426,7 +1426,7 @@
           "end": 7050726,
           "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050725
+          "start": 7050726
         },
         "zygosity": 1
       }
@@ -1511,7 +1511,7 @@
           "end": 7016663,
           "referenceBases": "AAT",
           "referenceName": "18",
-          "start": 7016660
+          "start": 7016661
         },
         "zygosity": 1
       },
@@ -1529,7 +1529,7 @@
           "end": 7050726,
           "referenceBases": "A",
           "referenceName": "18",
-          "start": 7050725
+          "start": 7050726
         },
         "zygosity": 1
       }
@@ -1574,7 +1574,7 @@
           "end": 2447952,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447951
+          "start": 2447952
         },
         "zygosity": 1
       }
@@ -1635,7 +1635,7 @@
           "end": 2447952,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447951
+          "start": 2447952
         },
         "zygosity": 1
       }
@@ -1708,7 +1708,7 @@
           "end": 2447952,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447951
+          "start": 2447952
         },
         "zygosity": 1
       }
@@ -1781,7 +1781,7 @@
           "end": 2447847,
           "referenceBases": "G",
           "referenceName": "20",
-          "start": 2447846
+          "start": 2447847
         },
         "zygosity": 1
       }
@@ -1854,7 +1854,7 @@
           "end": 2451408,
           "referenceBases": "G",
           "referenceName": "20",
-          "start": 2451407
+          "start": 2451408
         },
         "zygosity": 1
       }
@@ -1903,7 +1903,7 @@
           "end": 2447952,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447951
+          "start": 2447952
         },
         "zygosity": 1
       }
@@ -1964,7 +1964,7 @@
           "end": 2447952,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447951
+          "start": 2447952
         },
         "zygosity": 1
       }
@@ -2025,7 +2025,7 @@
           "end": 2447953,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447953
         },
         "zygosity": 1
       }
@@ -2094,7 +2094,7 @@
           "end": 2447953,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447953
         },
         "zygosity": 1
       }
@@ -2159,7 +2159,7 @@
           "end": 2447952,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447951
+          "start": 2447952
         },
         "zygosity": 1
       }
@@ -2232,7 +2232,7 @@
           "end": 2447953,
           "referenceBases": "C",
           "referenceName": "20",
-          "start": 2447952
+          "start": 2447953
         },
         "zygosity": 1
       }
@@ -2297,7 +2297,7 @@
           "end": 2447846,
           "referenceBases": "G",
           "referenceName": "20",
-          "start": 2447845
+          "start": 2447846
         },
         "zygosity": 1
       }
@@ -2374,7 +2374,7 @@
           "end": 9862854,
           "referenceBases": "T",
           "referenceName": "16",
-          "start": 9862853
+          "start": 9862854
         },
         "zygosity": 1
       }
@@ -2467,7 +2467,7 @@
           "end": 1105813,
           "referenceBases": "G",
           "referenceName": "19",
-          "start": 1105812
+          "start": 1105813
         },
         "zygosity": 1
       },
@@ -2485,7 +2485,7 @@
           "end": 1106237,
           "referenceBases": "CTTTTC",
           "referenceName": "19",
-          "start": 1106231
+          "start": 1106232
         },
         "zygosity": 1
       }
@@ -2582,7 +2582,7 @@
           "end": 1105455,
           "referenceBases": "C",
           "referenceName": "19",
-          "start": 1105454
+          "start": 1105455
         },
         "zygosity": 2
       }
@@ -2643,7 +2643,7 @@
           "end": 30671863,
           "referenceBases": "C",
           "referenceName": "7",
-          "start": 30671862
+          "start": 30671863
         },
         "zygosity": 1
       },
@@ -2661,7 +2661,7 @@
           "end": 30668263,
           "referenceBases": "G",
           "referenceName": "7",
-          "start": 30668262
+          "start": 30668263
         },
         "zygosity": 1
       }
@@ -2774,7 +2774,7 @@
           "end": 25761027,
           "referenceBases": "TGGG",
           "referenceName": "3",
-          "start": 25761023
+          "start": 25761024
         },
         "zygosity": 1
       },
@@ -2792,7 +2792,7 @@
           "end": 25775422,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775421
+          "start": 25775422
         },
         "zygosity": 1
       }
@@ -2885,7 +2885,7 @@
           "end": 25773869,
           "referenceBases": "TCCCCC",
           "referenceName": "3",
-          "start": 25773863
+          "start": 25773864
         },
         "zygosity": 2
       }
@@ -3018,7 +3018,7 @@
           "end": 25775422,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775421
+          "start": 25775422
         },
         "zygosity": 2
       }
@@ -3159,7 +3159,7 @@
           "end": 25775422,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775421
+          "start": 25775422
         },
         "zygosity": 2
       }
@@ -3240,7 +3240,7 @@
           "end": 25775422,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775421
+          "start": 25775422
         },
         "zygosity": 2
       }
@@ -3357,7 +3357,7 @@
           "end": 25775422,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775421
+          "start": 25775422
         },
         "zygosity": 2
       }
@@ -3478,7 +3478,7 @@
           "end": 25775422,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 25775421
+          "start": 25775422
         },
         "zygosity": 2
       }
@@ -3531,7 +3531,7 @@
           "end": 36579992,
           "referenceBases": "CTTT",
           "referenceName": "19",
-          "start": 36579988
+          "start": 36579989
         },
         "zygosity": 2
       }
@@ -3608,7 +3608,7 @@
           "end": 42474427,
           "referenceBases": "C",
           "referenceName": "19",
-          "start": 42474426
+          "start": 42474427
         },
         "zygosity": 1
       }
@@ -3753,7 +3753,7 @@
           "end": 2160552,
           "referenceBases": "G",
           "referenceName": "1",
-          "start": 2160551
+          "start": 2160552
         },
         "zygosity": 1
       }
@@ -3886,7 +3886,7 @@
           "end": 74538114,
           "referenceBases": "A",
           "referenceName": "14",
-          "start": 74538113
+          "start": 74538114
         },
         "zygosity": 1
       },
@@ -3904,7 +3904,7 @@
           "end": 74527350,
           "referenceBases": "G",
           "referenceName": "14",
-          "start": 74527349
+          "start": 74527350
         },
         "zygosity": 1
       }
@@ -3973,7 +3973,7 @@
           "end": 67592090,
           "referenceBases": "A",
           "referenceName": "5",
-          "start": 67592089
+          "start": 67592090
         },
         "zygosity": 1
       }
@@ -4074,7 +4074,7 @@
           "end": 3075805,
           "referenceBases": "G",
           "referenceName": "16",
-          "start": 3075804
+          "start": 3075805
         },
         "zygosity": 2
       }
@@ -4151,7 +4151,7 @@
           "end": 42153199,
           "referenceBases": "C",
           "referenceName": "17",
-          "start": 42153198
+          "start": 42153199
         },
         "zygosity": 2
       }
@@ -4200,7 +4200,7 @@
           "end": 47221659,
           "referenceBases": "TAAGT",
           "referenceName": "2",
-          "start": 47221654
+          "start": 47221655
         },
         "zygosity": 2
       }
@@ -4249,7 +4249,7 @@
           "end": 20225453,
           "referenceBases": "T",
           "referenceName": "3",
-          "start": 20225452
+          "start": 20225453
         },
         "zygosity": 2
       }
@@ -4370,7 +4370,7 @@
           "end": 25775418,
           "referenceBases": "GTTC",
           "referenceName": "3",
-          "start": 25775414
+          "start": 25775415
         },
         "zygosity": 1
       },
@@ -4388,7 +4388,7 @@
           "end": 25761670,
           "referenceBases": "G",
           "referenceName": "3",
-          "start": 25761669
+          "start": 25761670
         },
         "zygosity": 1
       }
