@@ -1772,8 +1772,8 @@
           "id": "SNRPB"
         },
         "type": {
-          "id": "SO:0001627",
-          "label": "INTRONIC"
+          "id": "SO:0001623",
+          "label": "3'UTR"
         },
         "variant": {
           "alternateBases": "T",
@@ -2476,8 +2476,8 @@
           "id": "GPX4"
         },
         "type": {
-          "id": "SO:0001630",
-          "label": "SPLICING"
+          "id": "SO:0001589",
+          "label": "FRAMESHIFT"
         },
         "variant": {
           "alternateBases": "C",
